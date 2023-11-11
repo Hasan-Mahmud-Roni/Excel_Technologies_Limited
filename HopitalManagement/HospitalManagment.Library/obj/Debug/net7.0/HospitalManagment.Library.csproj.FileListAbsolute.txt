@@ -1,0 +1,12 @@
+E:\CV\HopitalManagement\HospitalManagment.Library\bin\Debug\net7.0\HospitalManagment.Library.deps.json
+E:\CV\HopitalManagement\HospitalManagment.Library\bin\Debug\net7.0\HospitalManagment.Library.dll
+E:\CV\HopitalManagement\HospitalManagment.Library\bin\Debug\net7.0\HospitalManagment.Library.pdb
+E:\CV\HopitalManagement\HospitalManagment.Library\obj\Debug\net7.0\HospitalManagment.Library.csproj.AssemblyReference.cache
+E:\CV\HopitalManagement\HospitalManagment.Library\obj\Debug\net7.0\HospitalManagment.Library.GeneratedMSBuildEditorConfig.editorconfig
+E:\CV\HopitalManagement\HospitalManagment.Library\obj\Debug\net7.0\HospitalManagment.Library.AssemblyInfoInputs.cache
+E:\CV\HopitalManagement\HospitalManagment.Library\obj\Debug\net7.0\HospitalManagment.Library.AssemblyInfo.cs
+E:\CV\HopitalManagement\HospitalManagment.Library\obj\Debug\net7.0\HospitalManagment.Library.csproj.CoreCompileInputs.cache
+E:\CV\HopitalManagement\HospitalManagment.Library\obj\Debug\net7.0\HospitalManagment.Library.dll
+E:\CV\HopitalManagement\HospitalManagment.Library\obj\Debug\net7.0\refint\HospitalManagment.Library.dll
+E:\CV\HopitalManagement\HospitalManagment.Library\obj\Debug\net7.0\HospitalManagment.Library.pdb
+E:\CV\HopitalManagement\HospitalManagment.Library\obj\Debug\net7.0\ref\HospitalManagment.Library.dll

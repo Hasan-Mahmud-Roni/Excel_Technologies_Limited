@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "Hash": "S2e5BgEOV8WHwczv69vB6hS5H3E/poYSBBftdPaEwCI=",
+  "Source": "HospitalManagement.Client",
+  "BasePath": "_content/HospitalManagement.Client",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "HospitalManagement.Client\\wwwroot",
+      "Source": "HospitalManagement.Client",
+      "ContentRoot": "E:\\CV\\HopitalManagement\\HospitalManagement.Client\\wwwroot\\",
+      "BasePath": "_content/HospitalManagement.Client",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "E:\\CV\\HopitalManagement\\HospitalManagement.Client\\obj\\Debug\\net7.0\\scopedcss\\bundle\\HospitalManagement.Client.styles.css",
+      "SourceId": "HospitalManagement.Client",
+      "SourceType": "Computed",
+      "ContentRoot": "E:\\CV\\HopitalManagement\\HospitalManagement.Client\\obj\\Debug\\net7.0\\scopedcss\\bundle\\",
+      "BasePath": "_content/HospitalManagement.Client",
+      "RelativePath": "HospitalManagement.Client.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "E:\\CV\\HopitalManagement\\HospitalManagement.Client\\obj\\Debug\\net7.0\\scopedcss\\bundle\\HospitalManagement.Client.styles.css"
+    },
+    {
+      "Identity": "E:\\CV\\HopitalManagement\\HospitalManagement.Client\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\HospitalManagement.Client.bundle.scp.css",
+      "SourceId": "HospitalManagement.Client",
+      "SourceType": "Computed",
+      "ContentRoot": "E:\\CV\\HopitalManagement\\HospitalManagement.Client\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
+      "BasePath": "_content/HospitalManagement.Client",
+      "RelativePath": "HospitalManagement.Client.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "E:\\CV\\HopitalManagement\\HospitalManagement.Client\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\HospitalManagement.Client.bundle.scp.css"
+    },
+    {
+      "Identity": "E:\\CV\\HopitalManagement\\HospitalManagement.Client\\wwwroot\\Index.html",
+      "SourceId": "HospitalManagement.Client",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\CV\\HopitalManagement\\HospitalManagement.Client\\wwwroot\\",
+      "BasePath": "_content/HospitalManagement.Client",
+      "RelativePath": "Index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Index.html"
+    }
+  ]
+}
